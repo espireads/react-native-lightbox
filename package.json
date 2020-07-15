@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/oblador/react-native-lightbox",
   "dependencies": {
+    "@dudigital/react-native-zoomable-view": "^1.0.15",
     "prop-types": "^15.7.2"
   }
 }
